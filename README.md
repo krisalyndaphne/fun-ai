@@ -18,48 +18,30 @@ An interactive AI-powered chatbot that roleplays as your virtual girlfriend usin
 ```bash
 git clone https://github.com/yourusername/AI-Girlfriend-Chatbot.git
 cd AI-Girlfriend-Chatbot
+```
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
 3️⃣ Set Up Google Gemini API Key
+
 Get your API key from Google AI Studio.
 Then, set it up in your environment:
 
-Linux/macOS
-bash
-Copy
-Edit
-export GOOGLE_API_KEY="your_api_key_here"
-Windows (CMD)
-cmd
-Copy
-Edit
-set GOOGLE_API_KEY=your_api_key_here
-Windows (PowerShell)
-powershell
-Copy
-Edit
-$env:GOOGLE_API_KEY="your_api_key_here"
-Alternatively, in Python:
-
 python
-Copy
-Edit
+```bash
 import os
 os.environ["GOOGLE_API_KEY"] = "your_api_key_here"
+```
 4️⃣ Run the Chatbot
-bash
-Copy
-Edit
-python app.py
+```bash
+python girlfriend.py
+```
 Or, if using Gradio:
 
-bash
-Copy
-Edit
+```bash
 python -m gradio app.py
+```
 💡 Usage
 Open the Gradio UI in your browser.
 Type messages to chat with the AI girlfriend.
