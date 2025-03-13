@@ -16,8 +16,8 @@ An interactive AI-powered chatbot that roleplays as your virtual girlfriend usin
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/AI-Girlfriend-Chatbot.git
-cd AI-Girlfriend-Chatbot
+git clone https://github.com/krisalyndaphne/fun-ai.git
+cd fun-ai
 ```
 2️⃣ Install Dependencies
 ```bash
@@ -40,7 +40,7 @@ python girlfriend.py
 Or, if using Gradio:
 
 ```bash
-python -m gradio app.py
+python -m gradio girlfriend.py
 ```
 💡 Usage
 Open the Gradio UI in your browser.
