@@ -3,7 +3,7 @@ import gradio as gr
 import os
 
 # Set your Google Gemini API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBz3vwTB9kfTHbl_ILC3JLLt0ozKhalpBc"
+os.environ["GOOGLE_API_KEY"] = "ENTER YOUR API KEY"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # Initialize the AI model with personality settings
