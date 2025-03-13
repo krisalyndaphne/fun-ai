@@ -45,11 +45,15 @@ python -m gradio app.py
 💡 Usage
 Open the Gradio UI in your browser.
 Type messages to chat with the AI girlfriend.
-Customize responses, personality, or conversation flow in app.py.
+Customize responses, personality, or conversation flow in girlfriend.py.
+
+
 ⚠️ API Limitations & Notes
 🚧 Free-tier API has request limits – consider a paid plan for more usage.
 🔞 NSFW/ERP content may be blocked by Google's content filters.
 🧠 For self-hosted AI, consider using LLaMA, Mistral, or Mixtral instead.
+
+
 🚀 Future Enhancements
 🔊 Voice interaction using Text-to-Speech (TTS)
 📸 Image-based interactions (selfies, avatars)
