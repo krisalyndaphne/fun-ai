@@ -58,5 +58,7 @@ Customize responses, personality, or conversation flow in girlfriend.py.
 🔊 Voice interaction using Text-to-Speech (TTS)
 📸 Image-based interactions (selfies, avatars)
 🏆 Long-term memory for remembering past conversations
+
+
 📜 License
 This project is licensed under the MIT License.
