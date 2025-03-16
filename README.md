@@ -53,6 +53,10 @@ Customize responses, personality, or conversation flow in girlfriend.py.
 🔞 NSFW/ERP content may be blocked by Google's content filters.
 🧠 For self-hosted AI, consider using LLaMA, Mistral, or Mixtral instead.
 
+ OUTPUT
+![image](https://github.com/user-attachments/assets/9f27484e-5c3e-430b-ae43-185c3dcefc0a)
+
+
 
 🚀 Future Enhancements
 🔊 Voice interaction using Text-to-Speech (TTS)
